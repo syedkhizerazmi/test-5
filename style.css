@@ -1,0 +1,29 @@
+body{
+	 background-image:url("Rpbjm.png");
+	background-size: cover;
+}
+.i{
+	display: flex;
+	justify-content: center;
+}
+.ari{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+
+	width: 60%;
+}
+.first{
+	display: flex;
+	justify-content: center;
+	margin-top: 1em;
+}
+i{
+	color: white;
+}
+.brand-logo{
+	margin: 5px;
+}
+#em{
+	margin-bottom: 5px !important;
+}
